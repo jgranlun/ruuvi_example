@@ -1,5 +1,9 @@
 # ruuvi_example
 Example Python scripts for Ruuvitag
 
-Reqires Uses ruuvitag-senson Python3 and ruuvitag_sensor library. To install the latter:
+Requires Python3 and [ruuvitag_sensor](https://github.com/ttu/ruuvitag-sensor) library. 
+
+To install ruuvitag-sensor:
+```
 pip install ruuvitag_sensor
+```
